@@ -2,7 +2,7 @@
 ## Спринт 9 - Дипломная работа №1
 
 ### О проекте
-Написаны тесты для [[https://example.com](https://github.com/yandex-praktikum/QA-java-diplom-1)](QA-java-diplom-1)
+Написаны тесты для [[QA-java-diplom-1](https://github.com/yandex-praktikum/QA-java-diplom-1)]
 
 ### В проекте используется
 * maven 11
